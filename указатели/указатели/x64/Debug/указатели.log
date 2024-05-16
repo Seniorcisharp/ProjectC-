@@ -1,0 +1,23 @@
+﻿  arrays.cpp
+C:\Users\Alex\source\repos\указатели\указатели\arrays.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Alex\source\repos\указатели\указатели\arrays.cpp(149,17): error C2065: 'numbers': undeclared identifier
+C:\Users\Alex\source\repos\указатели\указатели\arrays.cpp(149,30): error C2065: 'numbers': undeclared identifier
+C:\Users\Alex\source\repos\указатели\указатели\arrays.cpp(150,28): error C2065: 'numbers': undeclared identifier
+C:\Users\Alex\source\repos\указатели\указатели\arrays.cpp(151,17): error C2065: 'numbers': undeclared identifier
+C:\Users\Alex\source\repos\указатели\указатели\arrays.cpp(151,30): error C2065: 'numbers': undeclared identifier
+C:\Users\Alex\source\repos\указатели\указатели\arrays.cpp(152,17): error C2065: 'numbers': undeclared identifier
+  MAaartix.cpp
+C:\Users\Alex\source\repos\указатели\указатели\MAaartix.cpp(15,11): error C2374: 'matrix': redefinition; multiple initialization
+C:\Users\Alex\source\repos\указатели\указатели\MAaartix.cpp(8,11): message : see declaration of 'matrix'
+C:\Users\Alex\source\repos\указатели\указатели\MAaartix.cpp(35,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  указатели.cpp
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(18,9): error C2040: 'n': 'int **' differs in levels of indirection from 'int'
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(18,13): error C2653: 'WorkingWithMatrix': is not a class or namespace name
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(18,32): error C3861: 'lowTriangleMatrix': identifier not found
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(20,3): error C2653: 'WorkingWithMatrix': is not a class or namespace name
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(20,22): error C3861: 'displayMatrixLow': identifier not found
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(23,13): error C2653: 'WorkingWithMatrix': is not a class or namespace name
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(23,32): error C3861: 'convertToHighTriangleMatrix': identifier not found
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(24,3): error C2653: 'WorkingWithMatrix': is not a class or namespace name
+C:\Users\Alex\source\repos\указатели\указатели\указатели.cpp(24,22): error C3861: 'displayMatrixHigh': identifier not found
+  Generating Code...
